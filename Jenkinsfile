@@ -2,7 +2,7 @@ node {
    // Mark the code checkout 'stage'....
    stage 'Checkout'
    
-   git url: ''
+   git url: 'https://github.com/Ga135/Philips-project.git'
 
    // Get the maven tool.
    // ** NOTE: This 'M3' maven tool must be configured
